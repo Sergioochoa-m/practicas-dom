@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: darkorange;
+}
+
+header {
+    width: 100%;
+    height: 350px;
+}
+
+.headerImg {
+    display: flex;
+    border: solid;
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+}
